@@ -1,9 +1,7 @@
 package cop_class_projects;
 
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ *This program will print a greeting of my choice 
  */
 
 /**
@@ -13,6 +11,6 @@ package cop_class_projects;
 public class practice_exercise_1_1 {
     public static void main (String [] args)
     {
-     sample   
+        System.out.print("Salut! J'espere que tu va bien!");
     }
 }
