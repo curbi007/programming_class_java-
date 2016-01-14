@@ -11,6 +11,7 @@ package cop_class_projects;
 public class practice_exercise_1_1 {
     public static void main (String [] args)
     {
-        System.out.print("Salut! J'espere que tu va bien!");
+        System.out.print("Je vais te dire quelque chose en francais");
+        System.out.print("Salut! J'espere que tu vas bien!"); 
     }
 }
