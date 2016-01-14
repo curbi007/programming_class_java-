@@ -13,6 +13,6 @@ package cop_class_projects;
 public class practice_exercise_1_1 {
     public static void main (String [] args)
     {
-        
+     sample   
     }
 }
